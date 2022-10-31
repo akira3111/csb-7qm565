@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://akira3111.github.io/csb-7qm565/static/js/main.7f4665e6.chunk.js",
+    "main.js.map": "https://akira3111.github.io/csb-7qm565/static/js/main.7f4665e6.chunk.js.map",
+    "runtime-main.js": "https://akira3111.github.io/csb-7qm565/static/js/runtime-main.188740ea.js",
+    "runtime-main.js.map": "https://akira3111.github.io/csb-7qm565/static/js/runtime-main.188740ea.js.map",
+    "static/js/2.dc8ff2b6.chunk.js": "https://akira3111.github.io/csb-7qm565/static/js/2.dc8ff2b6.chunk.js",
+    "static/js/2.dc8ff2b6.chunk.js.map": "https://akira3111.github.io/csb-7qm565/static/js/2.dc8ff2b6.chunk.js.map",
+    "index.html": "https://akira3111.github.io/csb-7qm565/index.html",
+    "static/js/2.dc8ff2b6.chunk.js.LICENSE.txt": "https://akira3111.github.io/csb-7qm565/static/js/2.dc8ff2b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188740ea.js",
+    "static/js/2.dc8ff2b6.chunk.js",
+    "static/js/main.7f4665e6.chunk.js"
+  ]
+}
